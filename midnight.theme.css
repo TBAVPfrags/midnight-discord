@@ -16,7 +16,7 @@
 	/* amount of spacing and padding */
 	--spacing: 12px;
 	/* radius of round corners */
-	--roundness: 16px;
+	--roundness: 32px;
 
 	/* color of links */
 	--accent-1: hsl(190, 70%, 60%);
@@ -39,7 +39,7 @@
 	/* color of headings and important text */
 	--text-2: hsl(220, 30%, 70%);
 	/* color of normal text */
-	--text-3: hsl(220, 15%, 60%);
+	--text-3: hsl(197, 71%, 73%);
 	/* color of icon buttons and channels */
 	--text-4: hsl(220, 15%, 40%);
 	/* color of muted channels/chats and timestamps */
